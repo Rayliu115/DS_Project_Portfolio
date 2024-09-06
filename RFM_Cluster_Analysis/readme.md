@@ -3,6 +3,8 @@
 
 RFM is a method used for analyzing customer value. It is commonly used in database marketing and direct marketing and has received particular attention in retail and professional services industries
 
+<img src="https://raw.githubusercontent.com/shruti-jadon/Data_Science_Images/main/kmeans.gif" alt="Data Science Interview Preparation" style="zoom:80%;" />
+
 ### RFM stands for the three dimensions:
 
 Recency – How recently did the customer purchase?<br>
