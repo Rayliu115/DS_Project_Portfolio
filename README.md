@@ -10,7 +10,8 @@ Summary:
 - They are all commonly used in data works
 
 
-## the list of projects:
-### RFM Cluster Analyst 
+### The list of projects:
+- RFM Cluster Analyst 
 RFM is a method used for analyzing customer value. It is commonly used in database marketing and direct marketing and has received particular attention in retail and professional services industries.
+https://github.com/Rayliu115/DS_Project_Portfolio/tree/main/RFM_Cluster_Analysis
 
