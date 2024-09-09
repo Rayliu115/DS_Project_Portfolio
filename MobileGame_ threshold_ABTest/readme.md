@@ -18,6 +18,10 @@ Leveraging Python, a powerful tool for data analysis, we delved into the game’
 
 Bootstrap analysis, a robust statistical method, was employed to assess the certainty of our findings. By resampling the dataset and calculating retention rates, we could estimate the variability of our metrics. This analysis revealed a slight decrease in 1-day retention for the level 40 gate, a small but significant insight given the impact of retention on player base and revenue.
 
+![image](https://github.com/user-attachments/assets/03480590-f5d6-4671-bc90-d138520f715a)
+
+
+
 ## Visualizing Data with Python
 
 Data visualization played a pivotal role in our analysis. Using Python’s Matplotlib library, we plotted the distribution of game rounds played and the bootstrap analysis results, offering a clear, visual representation of our findings. These visualizations not only made the data more accessible but also highlighted the nuanced effects of gate placement on player engagement.
@@ -29,5 +33,9 @@ The culmination of our analysis pointed to a clear conclusion: moving the gate t
 ## The Power of AB Testing and Data Analysis
 
 This case study exemplifies the critical role of AB testing and data analysis in optimizing player engagement and retention. By leveraging Python for data manipulation, analysis, and visualization, we can derive actionable insights that inform strategic decisions. For game developers and analysts alike, embracing these tools and techniques is essential for fostering a vibrant, engaged player base.
+
+## The steps of AB Testing
+![image](https://github.com/user-attachments/assets/c0d7d6e0-b501-4876-9603-8c0d32118ad0)
+
 
 
