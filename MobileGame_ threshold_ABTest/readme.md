@@ -67,6 +67,11 @@ The initial placement of the first gate at level 30 posed an interesting questio
 
 Leveraging Python, a powerful tool for data analysis, we delved into the game’s AB test data, encompassing 90,189 players. The data included metrics such as the number of game rounds played within the first 14 days post-installation and retention rates one and seven days after installation. Python’s Pandas library facilitated efficient data manipulation and analysis, allowing for a clear comparison between the control group (gate at level 30) and the test group (gate at level 40).
 
+
+## Visualizing Data with Python
+
+Data visualization played a pivotal role in our analysis. Using Python’s Matplotlib library, we plotted the distribution of game rounds played and the bootstrap analysis results, offering a clear, visual representation of our findings. These visualizations not only made the data more accessible but also highlighted the nuanced effects of gate placement on player engagement.
+
 ### Cleaning Data
 ![image](./img/WechatIMG589.jpg)
 ![image](./img/N0962024001.png)
@@ -78,21 +83,8 @@ Leveraging Python, a powerful tool for data analysis, we delved into the game’
 
 ### Statistic Modeling
 ![image](./img/N09620240015.png)
-
-
-
-
-## Bootstrap Analysis: A Closer Look at Retention Rates
-
-Bootstrap analysis, a robust statistical method, was employed to assess the certainty of our findings. By resampling the dataset and calculating retention rates, we could estimate the variability of our metrics. This analysis revealed a slight decrease in 1-day retention for the level 40 gate, a small but significant insight given the impact of retention on player base and revenue.
-
-![image](https://github.com/user-attachments/assets/03480590-f5d6-4671-bc90-d138520f715a)
-
-
-
-## Visualizing Data with Python
-
-Data visualization played a pivotal role in our analysis. Using Python’s Matplotlib library, we plotted the distribution of game rounds played and the bootstrap analysis results, offering a clear, visual representation of our findings. These visualizations not only made the data more accessible but also highlighted the nuanced effects of gate placement on player engagement.
+![image](./img/N09620240016.png)
+![image](./img/N09620240016.png)
 
 ## Strategic Decision-Making: To Move or Not to Move the Gate?
 
@@ -118,6 +110,18 @@ This case study exemplifies the critical role of AB testing and data analysis in
      - ③ Optimize the iteration plan, redevelop, and go back to step 1.
 
 ![image](https://github.com/user-attachments/assets/c0d7d6e0-b501-4876-9603-8c0d32118ad0)
+
+
+
+## Bootstrap Analysis: A Closer Look at Retention Rates
+
+Bootstrap analysis, a robust statistical method, was employed to assess the certainty of our findings. By resampling the dataset and calculating retention rates, we could estimate the variability of our metrics. This analysis revealed a slight decrease in 1-day retention for the level 40 gate, a small but significant insight given the impact of retention on player base and revenue.
+
+![image](https://github.com/user-attachments/assets/03480590-f5d6-4671-bc90-d138520f715a)
+![image](./img/N09620240018.png)
+![image](./img/N09620240019.png)
+![image](./img/N09620240020.png)
+![image](./img/N09620240021.jpg)
 
 
 
