@@ -67,6 +67,21 @@ The initial placement of the first gate at level 30 posed an interesting questio
 
 Leveraging Python, a powerful tool for data analysis, we delved into the game’s AB test data, encompassing 90,189 players. The data included metrics such as the number of game rounds played within the first 14 days post-installation and retention rates one and seven days after installation. Python’s Pandas library facilitated efficient data manipulation and analysis, allowing for a clear comparison between the control group (gate at level 30) and the test group (gate at level 40).
 
+### Cleaning Data
+![image](./img/WechatIMG589.jpg)
+![image](./img/N0962024001.png)
+![image](./img/N09620240012.png)
+![image](./img/N09620240013.png)
+
+### Insights
+![image](./img/N09620240014.png)
+
+### Statistic Modeling
+![image](./img/N09620240015.png)
+
+
+
+
 ## Bootstrap Analysis: A Closer Look at Retention Rates
 
 Bootstrap analysis, a robust statistical method, was employed to assess the certainty of our findings. By resampling the dataset and calculating retention rates, we could estimate the variability of our metrics. This analysis revealed a slight decrease in 1-day retention for the level 40 gate, a small but significant insight given the impact of retention on player base and revenue.
